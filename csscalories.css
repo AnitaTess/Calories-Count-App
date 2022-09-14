@@ -1,0 +1,25 @@
+body{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#startimg {
+width: 100%;
+height: auto;
+}
+
+.title{
+background-color: #006837 !important;
+color: white !important;
+}
+
+.footer {
+    background-color: #006837 !important;
+    color: white !important;
+}
+
+.ft{
+margin-top: 5px !important;
+margin-bottom: 5px !important;
+width: 100% !important;
+height: auto !important;
+}
